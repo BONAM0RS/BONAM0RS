@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BONAM0RS
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning lua to create games on Core platform
+- 🌱 I’m currently learning C++ to create games using Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord, BonaMors#7907
 

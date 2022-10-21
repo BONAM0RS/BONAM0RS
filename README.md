@@ -8,7 +8,7 @@
 - 👯 I am looking for a job as a C++ developer
 - 📫 How to reach me: Discord, BonaMors#7907
 
-### Languages and Tools:
+### Languages and Tools
 C++, Lua, Blueprints, Unreal Engine, Qt, SFML, Git
 
 <!---

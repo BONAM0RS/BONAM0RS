@@ -6,7 +6,7 @@
 - :ok_hand: I developed games on the Сore platform using Lua
 - :muscle: I’m currently developing games using C++
 - 👯 I am looking for a job as a C++ developer
-- 📫 How to reach me: Discord, BonaMors#7907
+- :speech_balloon: How to reach me: Discord, BonaMors#7907
 
 ### Languages and Tools
 C++, Lua, Blueprints, Unreal Engine, Qt, SFML, Git

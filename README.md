@@ -9,7 +9,7 @@
 - 📫 How to reach me: Discord, BonaMors#7907
 
 ### Languages and Tools:
-C++, Lua, Blueprints, Unreal Engine, Qt, SFML, Git, Github Dekstop
+C++, Lua, Blueprints, Unreal Engine, Qt, SFML, Git
 
 <!---
 BONAM0RS/BONAM0RS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,16 +1,10 @@
-- 👋 Hi, I’m Andrew
+# Hi 👋, I'm Andrew
+## A game developer from Ukraine
+
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ to create games using Unreal Engine
+- 🔭 I’m currently developing games using C++
+- 👯 I am looking for a job as a C++ developer (Unreal Engine)
 - 📫 How to reach me: Discord, BonaMors#7907
-
-<h1 align="center">Hi 👋, I'm Andrew Pol</h1>
-<h3 align="center">A game developer from Ukraine</h3>
-
-- 🔭 I’m currently working on **games using C++**
-
-- 👯 I’m looking to collaborate on **job**
-
-- 📫 How to reach me **discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

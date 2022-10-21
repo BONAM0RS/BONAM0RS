@@ -2,10 +2,10 @@
 
 ### A developer from Ukraine
 
-- 👀 I’m interested in game development
-- :ok_hand:     I developed games on the Сore platform using Lua
+- 👀 I'm most interested in game development
+- :ok_hand: I developed games on the Сore platform using Lua
 - :muscle: I’m currently developing games using C++
-- 👯 I am looking for a job as a C++ developer (Unreal Engine)
+- 👯 I am looking for a job as a C++ developer
 - 📫 How to reach me: Discord, BonaMors#7907
 
 ### Languages and Tools:

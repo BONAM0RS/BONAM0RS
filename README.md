@@ -10,13 +10,10 @@
 C++, Lua, Blueprints (UE)
 
 ### Frameworks & Libraries
-Qt, SFML, STL
+Qt, SFML
 
 ### Version Control
 Git, Github Dekstop
-
-### Game Engine
-Unreal Engine
 
 <!---
 BONAM0RS/BONAM0RS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

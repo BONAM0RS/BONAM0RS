@@ -3,7 +3,7 @@
 - :muscle: I’m currently developing games using C++
 
 ### Languages and Tools
-C++, Lua, Blueprints, Unreal Engine, Visual Studio, SDL2, Qt, SFML, Git
+C++, Lua, Blueprints, Unreal Engine, Core Editor, Visual Studio, SDL2, Qt, SFML, Git
 
 <!---
 BONAM0RS/BONAM0RS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

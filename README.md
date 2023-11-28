@@ -5,7 +5,7 @@
 ### Languages and Tools
 C++, Blueprints, Unreal Engine, Visual Studio, Rider, Fork, Tortoise
 
-Lua, Core Editor, C#, Unity, SDL2, SFML, Qt, Qt Creator, Git, Github Desktop 
+C#, Unity, Lua, Core Editor, SDL2, SFML, Qt, Qt Creator, Github Desktop 
 
 <!---
 BONAM0RS/BONAM0RS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

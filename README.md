@@ -1,6 +1,6 @@
 - 👀 I'm most interested in game development
 - :ok_hand: I developed games on the [Сore platform](https://www.coregames.com/user/94328af26fb0453e9257e787cb5d9ff9/created) using Lua
-- :muscle: I’m currently developing games using C++ & C#
+- :muscle: I’m currently developing games using C++ and Unreal Engine
 
 ### Languages and Tools
 C++, C#, Lua, Blueprints, Unreal Engine, Unity, Core Editor, Visual Studio, SDL2, Qt, SFML, Github Desktop, Git

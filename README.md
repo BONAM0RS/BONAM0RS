@@ -1,11 +1,9 @@
-- 👀 I'm most interested in game development
+- 👀 I'm the most interested in game development
 - :ok_hand: I developed games on the [Сore platform](https://www.coregames.com/user/94328af26fb0453e9257e787cb5d9ff9/created) using Lua
 - :muscle: I’m currently developing games using Unreal Engine and C++
 
 ### Languages and Tools
-C++, Blueprints, Unreal Engine, Visual Studio, Rider, Fork, Tortoise
-
-C#, Unity, Lua, Core Editor, SDL2, SFML, Qt, Qt Creator, Github Desktop 
+C++, Blueprints, Unreal Engine, Visual Studio, Rider, Fork, Github Desktop
 
 <!---
 BONAM0RS/BONAM0RS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
